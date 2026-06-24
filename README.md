@@ -2,7 +2,7 @@
 
 Building open-source developer tools, AI-assisted software workflows, and practical full-stack products with a validation-first mindset.
 
-- Currently building [TerminalTalk](https://github.com/abhi-zit77/TerminalTalk), a realtime terminal chat app using TypeScript, Ink, React, and Convex.
+- Built [TerminalTalk](https://github.com/abhi-zit77/TerminalTalk), a realtime terminal chat app using TypeScript, Ink, React, and Convex.
 - Contributing to open-source projects across Python algorithms, developer tooling, public API lists, and documentation.
 - Exploring AI-assisted development to ship cleaner code faster without skipping architecture, review, or validation.
 - Learning deeper TypeScript, Python algorithms, system design, and production-grade full-stack engineering.
