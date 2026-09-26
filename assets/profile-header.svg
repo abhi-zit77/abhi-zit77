@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Abhijit Singh — thoughtful software, built with intent.</title>
+  <desc id="description">A charcoal and warm cream editorial banner with terracotta accents. Full-stack development, AI systems, and open source.</desc>
+  <rect width="1200" height="320" rx="16" fill="#242321"/>
+  <path d="M48 46H1152" stroke="#504B45"/>
+  <circle cx="56" cy="78" r="5" fill="#DFA080"/>
+  <text x="74" y="83" font-family="Consolas, monospace" font-size="14" letter-spacing="2" fill="#DFA080">FULL-STACK / AI SYSTEMS / OPEN SOURCE</text>
+  <text x="48" y="182" font-family="Georgia, serif" font-size="80" letter-spacing="-2" fill="#F5EFE3">Abhijit Singh</text>
+  <text x="52" y="227" font-family="Georgia, serif" font-size="25" fill="#D1C8BB">Thoughtful software, built with intent.</text>
+  <path d="M48 272H1152" stroke="#504B45"/>
+  <text x="52" y="297" font-family="Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#D1C8BB">PLAN FIRST. SHIP SMALL. VERIFY EVERYTHING.</text>
+  <text x="1148" y="297" text-anchor="end" font-family="Consolas, monospace" font-size="13" letter-spacing="1" fill="#DFA080">ABHI-ZIT77</text>
+  <g fill="none" stroke-width="1.5">
+    <path d="M938 91H893V228H938M1058 91H1103V228H1058" stroke="#DFA080"/>
+    <path d="M946 205L1045 112M952 112H1045V205" stroke="#F5EFE3"/>
+    <path d="M968 228H1028M998 78V102M998 217V241" stroke="#756C60"/>
+  </g>
+</svg>
