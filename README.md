@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abhijit-singh-016b53423/"><img src="assets/linkedin-badge.svg" alt="Connect on LinkedIn" /></a>
   <a href="https://x.com/abhi_zit"><img src="https://img.shields.io/badge/Follow_on_X-242321?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Follow on X" /></a>
+  <a href="https://www.instagram.com/abhizit.ai/"><img src="assets/instagram-badge.svg" alt="Follow abhizit.ai on Instagram" /></a>
   <a href="https://github.com/abhi-zit77?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-242321?style=for-the-badge&amp;logo=github&amp;logoColor=DFA080" alt="Explore my repositories" /></a>
 </p>
 
@@ -32,7 +33,7 @@ A realtime terminal chat app built with **TypeScript, Ink, React, and Convex**. 
 
 - **BillFirst — client work:** building an Expo / React Native mobile MVP and a separate Next.js landing page and waitlist, with Supabase-backed flows and a focus on correctness and QA.
 - **AI Foundry 101 — website build:** a notebook-inspired AI-learning experience connecting practical demos, learning topics, and a Whop membership route. Designed around a progression from beginners to builders.
-- **Abhizit — personal portfolio:** an interactive Next.js portfolio with scroll-led storytelling, responsive layouts, reduced-motion support, and a Cal.com booking flow.
+- **Abhizit — personal portfolio:** an interactive Next.js portfolio with scroll-led storytelling, responsive layouts, reduced-motion support, and a Cal.com booking flow. [Visit my portfolio](https://abhizit-portfolio.vercel.app/).
 
 ## Open source
 
@@ -94,6 +95,8 @@ Submitted focused patches to **TheAlgorithms/Python** for [3×3 matrix inversion
 ![Vercel](https://img.shields.io/badge/Vercel-242321?style=for-the-badge&logo=vercel&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-242321?style=for-the-badge&logo=claude&logoColor=DFA080)
 
+![ChatGPT desktop app](assets/chatgpt-desktop-badge.svg)
+
 Also in my workflow: **Codex**, **Ink**, **Vitest**, and browser-based validation.
 
 ## How I work
@@ -107,5 +110,6 @@ Understand the problem. Define a small scope. Build the right thing. Reproduce b
 <p align="center">
   <a href="https://github.com/abhi-zit77?tab=repositories">Repositories</a> &nbsp; / &nbsp;
   <a href="https://github.com/pulls?q=is%3Apr+author%3Aabhi-zit77">Contribution history</a> &nbsp; / &nbsp;
+  <a href="https://abhizit-portfolio.vercel.app/">Portfolio</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/abhijit-singh-016b53423/">Let's connect</a>
 </p>
